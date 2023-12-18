@@ -1,0 +1,158 @@
+*{
+    color: whitesmoke;
+}
+.heading{
+    margin-top: 2%;
+    font-size: 2em;
+    font-style: italic;
+    text-align: center;
+    width: 20%;
+    
+}
+.linebreak_1,.linebreak_2,.linebreak_3,.linebreak_4{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width:75%;
+}
+.bgm{
+    background: radial-gradient(rgb(37, 36, 36), black);
+}
+.top_content{
+    display: flex;
+    flex: 1;
+}
+.elements_to_navigate{
+    display: flex;
+    flex: 1;
+
+    padding: 5%;
+    text-align:center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.intro{
+    margin-left: 2%;
+    margin-right: 10%;
+    font-size: 1.5em;
+
+}
+.skill{
+    margin-right: 10%;
+    font-size: 1.5em;}
+.we{
+    margin-right: 10%;
+    font-size: 1.5em;
+    min-width:fit-content;
+}
+.proj{
+    margin-right: 10%;
+    font-size: 1.5em;}
+.fd{
+    margin-left: 4%;
+    margin-right: 10%;
+    font-size: 1.5em;
+    min-width:fit-content;
+
+}
+.ctnc{
+    margin-right: 10%;
+    font-size: 1.5em;
+}
+.introduction{
+    display: flex;
+    flex: 1;
+    margin-top: 5%;
+}
+.img_2{
+    border-radius: 100%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.text_right1{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.lmao{
+    text-decoration: none;
+}
+.data{
+    text-align: center;
+}
+.skillset{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:75%;
+    margin-left: 10%;
+    max-width: 400vh;
+    padding: 25px;
+    border: 2px double whitesmoke;
+    scroll-behavior: smooth;
+    
+}
+.html,.css,.js,.java,.python,.selenium{
+    margin-right: 6%;
+    margin-top: 2%;
+}
+.imga,.imgb,.imgc,.imgd,.imge,.imgf{
+    border: 1px solid white;
+    border-radius: 90%;
+}
+.mrgnreduce{
+    text-align: center;
+}
+.projects{
+    display: flex;
+}
+.cat{
+    padding: 20px;
+    margin-left: 10%;
+}
+.text_change{
+    margin-left: 15%;
+    font-size: 4em;
+    margin-top: 15%;
+    
+}
+.work_and_experience{
+    display: flex;
+    margin-top: 10%;
+}
+.Images_2_3{
+    padding: 20px;
+}
+.logo{
+    border-top-left-radius: 95%;
+    border-bottom-left-radius: 95%;
+    border-bottom-right-radius: 95%;
+    border-top-right-radius: 95%;
+    margin-left: 100%;
+}
+.text_right2{
+    margin-left: 35%;
+
+}
+.new{
+    text-align: center;
+}
+.textarea{
+    margin-left: 42%;
+    color: black;
+}
+.button{
+    margin-left: 48%;
+    color: black;
+
+}
+.important{
+    text-align: center;
+    margin-bottom: 10%;
+}
+.contact{
+    background-color: black;
+}
+
+
+
