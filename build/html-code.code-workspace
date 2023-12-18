@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../html-code"
+		},
+		{
+			"path": "../Webpage_intro"
+		},
+		{
+			"path": "../Basics_codes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Webpage_intro"
+	}
+}
